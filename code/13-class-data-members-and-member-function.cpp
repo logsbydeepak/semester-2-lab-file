@@ -6,8 +6,12 @@ class BankAccount {
 
 public:
   // member function
-  void setBalance(int value) { balance = value; }
-  int getBalance() { return balance; }
+  void setBalance(int value) {
+    balance = value;
+  }
+  int getBalance() {
+    return balance;
+  }
 };
 
 int main() {

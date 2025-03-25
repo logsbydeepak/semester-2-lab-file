@@ -6,7 +6,9 @@ private:
   int length;
 
 public:
-  void setLength(int length) { this->length = length; }
+  void setLength(int length) {
+    this->length = length;
+  }
 
   friend void showLength(Box b);
 };

@@ -3,24 +3,34 @@ using std::cout; // declaration
 using std::endl;
 
 namespace A {
-void display() { cout << "Hi from A namespace" << endl; }
+  void display() {
+    cout << "Hi from A namespace" << endl;
+  }
 }
 
 namespace B {
-void display() { cout << "Hi from B namespace" << endl; }
+  void display() {
+    cout << "Hi from B namespace" << endl;
+  }
 }
 
 namespace C {
-void greet() { cout << "Hi from C namespace using directive" << endl; }
+  void greet() {
+    cout << "Hi from C namespace using directive" << endl;
+  }
 }
 using namespace C; // directive
 
 namespace D {
-void message() { cout << "Hi from D namespace using declaration" << endl; }
+  void message() {
+    cout << "Hi from D namespace using declaration" << endl;
+  }
 }
 using D::message; // declaration
 
-void display() { cout << "Hi from global namespace" << endl; }
+void display() {
+  cout << "Hi from global namespace" << endl;
+}
 
 int main() {
   A::display();

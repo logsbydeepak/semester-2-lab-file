@@ -3,8 +3,12 @@ using namespace std;
 
 class Car {
 public:
-  Car() { cout << "Car object created!" << endl; }
-  ~Car() { cout << "Car object destroyed!" << endl; }
+  Car() {
+    cout << "Car object created!" << endl;
+  }
+  ~Car() {
+    cout << "Car object destroyed!" << endl;
+  }
 };
 
 int main() {

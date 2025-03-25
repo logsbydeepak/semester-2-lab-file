@@ -16,7 +16,9 @@ public:
   }
 };
 
-inline int sum(int num1, int num2) { return num1 + num2; }
+inline int sum(int num1, int num2) {
+  return num1 + num2;
+}
 
 int main() {
   Person p1("Raunak", 19);
