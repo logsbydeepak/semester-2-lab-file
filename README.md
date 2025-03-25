@@ -21,6 +21,7 @@
 19. [Parameterized constructor](./code/19-parameterized-constructor.cpp)
 20. [Copy constructor](./code/20-copy-constructor.cpp)
 
+### pending
 21. Dynamic memory allocation Default Constructor Destructor
 23. Unary Operators overloading
 24. Binary Operators 

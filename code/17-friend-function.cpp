@@ -13,7 +13,9 @@ public:
   friend void showLength(Box b);
 };
 
-void showLength(Box b) { cout << "Length of the box: " << b.length << endl; }
+void showLength(Box b) {
+  cout << "Length of the box: " << b.length << endl;
+}
 
 int main() {
   Box b1;
