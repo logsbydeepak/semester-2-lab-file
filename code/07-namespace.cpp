@@ -12,7 +12,7 @@ void display() { cout << "Hi from B namespace" << endl; }
 
 namespace C {
 void greet() { cout << "Hi from C namespace using directive" << endl; }
-} 
+}
 using namespace C; // directive
 
 namespace D {

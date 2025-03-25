@@ -1,4 +1,4 @@
-# Semester 2
+# Semester 2 lab file
 
 01. [Hello world](./code/01-hello-world.cpp)
 02. [Swap by reference](./code/02-swap-by-reference.cpp)
