@@ -11,7 +11,7 @@
 09. [Typecasting](./code/09-typecasting.cpp)
 10. [Default Parameter](./code/10-default-parameter.cpp)
 11. [Abstract Data Type](./code/11-abstract-data-type.cpp)
-12. [Standard Template Library](./code/12.standard-template-library.cpp)
+12. [Standard Template Library](./code/12-standard-template-library.cpp)
 13. [Class data members member function](./code/13-class-data-members-and-member-function.cpp)
 14. [this pointer](./code/14-this-pointer.cpp)
 15. [Define member function outside class](./code/15-define-member-function-outside-class.cpp)
