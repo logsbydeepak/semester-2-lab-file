@@ -1,0 +1,4 @@
+*.out
+input.txt
+output.txt
+*.env

@@ -20,11 +20,21 @@
 18. [Constructor and Destructor](./code/18-constructor-and-destructor.cpp)
 19. [Parameterized constructor](./code/19-parameterized-constructor.cpp)
 20. [Copy constructor](./code/20-copy-constructor.cpp)
-
-### pending
-21. Dynamic memory allocation Default Constructor Destructor
-23. Unary Operators overloading
-24. Binary Operators 
-25. static member variable
-26. static member function
+21. [Dynamic memory allocation inside class](./code/21-dynamic-memory-allocation-inside-class.cpp)
+22. [Initialization lists](./code/22-initialization-lists.cpp)
+23. [Unary operators overloading](./code/23-unary-operators-overloading.cpp)
+24. [Binary Operators overloading](./code/24-binary-operators-overloading.cpp)
+25. [Static member variable](./code/25-static-member-variable.cpp)
+26. [Static member function](./code/26-static-member-function.cpp)
+27. [Constant member variables](./code/27-constant-member-variables.cpp)
+28. [Constant member function](./code/28-constant-member-function.cpp)
+29. [Constant object](./code/29-constant-object.cpp)
+30. [Single inheritance](./code/30-single-inheritance.cpp)
+31. [Multiple inheritance](./code/31-multiple-inheritance.cpp)
+32. [Multilevel inheritance](./code/32-multilevel-inheritance.cpp)
+33. [Hierarchical inheritance](./code/33-hierarchical-inheritance.cpp)
+34. [Hybrid inheritance](./code/34-hybrid-inheritance.cpp)
+35. [Virtual function and function overriding](./code/35-virtual-function-and-function-overriding.cpp)
+36. [Pure virtual function and abstract class](./code/36-pure-virtual-function-and-abstract-class.cpp)
+37. [Diamond problem solution or multipath or virtual base class](./code/37-diamond-problem-solution-or-multipath-or-virtual-base-class.cpp)
 
