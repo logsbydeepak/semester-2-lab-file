@@ -37,4 +37,7 @@
 35. [Virtual function and function overriding](./code/35-virtual-function-and-function-overriding.cpp)
 36. [Pure virtual function and abstract class](./code/36-pure-virtual-function-and-abstract-class.cpp)
 37. [Diamond problem solution or multipath or virtual base class](./code/37-diamond-problem-solution-or-multipath-or-virtual-base-class.cpp)
+38. [String line input](./code/38-string-line-input.cpp)
+39. [Padding](./code/39-padding.cpp)
+40. [Copy Content from One File to Another](./code/40-copy-content-from-one-file-to-another.cpp)
 
