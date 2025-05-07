@@ -42,7 +42,6 @@
 40. [Copy Content from One File to Another](./code/40-copy-content-from-one-file-to-another.cpp)
 
 # Other
-[Formal and Actual Parameter](./other/formal-and-actual-parameter.cpp)
-[Add two complex number using operator overloading](./other/add-two-complex-number-using-operator-overloading.cpp)
-
+- [Formal and Actual Parameter](./other/formal-and-actual-parameter.cpp)
+- [Add two complex number using operator overloading](./other/add-two-complex-number-using-operator-overloading.cpp)
 
